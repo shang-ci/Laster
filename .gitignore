@@ -1,0 +1,34 @@
+# This .gitignore file should be placed at the root of your Unity project directory
+#
+# Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
+
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+
+# Uncomment this line if you have auto-generated Assets/Packages folder:
+# /[Aa]ssets/Packages/
+
+# Uncomment this line if you have auto-generated Assets/StreamingAssets folder:
+# /[Aa]ssets/StreamingAssets/
+
+/[Uu]ser[Ss]ettings/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.DS_Store
+.vscode/

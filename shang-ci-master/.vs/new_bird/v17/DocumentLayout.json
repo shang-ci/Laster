@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\30714\\new_bird\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A656897E-F830-E045-1E25-AC092EF02250}|Assembly-CSharp.csproj|c:\\users\\30714\\new_bird\\assets\\scripts\\player\\playeranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A656897E-F830-E045-1E25-AC092EF02250}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playeranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A656897E-F830-E045-1E25-AC092EF02250}|Assembly-CSharp.csproj|c:\\users\\30714\\new_bird\\assets\\scripts\\player\\collisiondetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A656897E-F830-E045-1E25-AC092EF02250}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\collisiondetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A656897E-F830-E045-1E25-AC092EF02250}|Assembly-CSharp.csproj|c:\\users\\30714\\new_bird\\assets\\scripts\\player\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A656897E-F830-E045-1E25-AC092EF02250}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\30714\\new_bird\\Assets\\Scripts\\Player\\PlayerAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAnimation.cs",
+              "ToolTip": "C:\\Users\\30714\\new_bird\\Assets\\Scripts\\Player\\PlayerAnimation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerAnimation.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T13:30:29.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollisionDetection.cs",
+              "DocumentMoniker": "C:\\Users\\30714\\new_bird\\Assets\\Scripts\\Player\\CollisionDetection.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\CollisionDetection.cs",
+              "ToolTip": "C:\\Users\\30714\\new_bird\\Assets\\Scripts\\Player\\CollisionDetection.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\CollisionDetection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T13:22:01.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMove.cs",
+              "DocumentMoniker": "C:\\Users\\30714\\new_bird\\Assets\\Scripts\\Player\\PlayerMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMove.cs",
+              "ToolTip": "C:\\Users\\30714\\new_bird\\Assets\\Scripts\\Player\\PlayerMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMove.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAlwFEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:03:21.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

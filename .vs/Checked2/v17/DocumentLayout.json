@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|c:\\users\\30714\\desktop\\git\\unity-test1\\checked2\\assets\\scripts\\player\\collector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\collector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\assets\\scripts\\enemy\\leader\\state\\boos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\leader\\state\\boos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\assets\\scripts\\general\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\assets\\scripts\\ui\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\assets\\scripts\\prefabs\\orb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\prefabs\\orb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\assets\\scripts\\enemy\\leader\\skills\\leaderskill1_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\leader\\skills\\leaderskill1_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\assets\\scripts\\enemy\\leader\\skills\\leaderskill1_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\leader\\skills\\leaderskill1_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\assets\\scripts\\prefabs\\shield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\prefabs\\shield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\assets\\scripts\\player\\playeranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playeranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\assets\\scripts\\enemy\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\assets\\scripts\\enemy\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\assets\\scripts\\general\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\assets\\scripts\\enemy\\leader\\skills\\leaderskill2_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\leader\\skills\\leaderskill2_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\assets\\scripts\\enemy\\leader\\skills\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\leader\\skills\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\assets\\scripts\\enemy\\leader\\skills\\leaderskill2_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\leader\\skills\\leaderskill2_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\assets\\scripts\\enemy\\leader\\skills\\leaderskill2_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\leader\\skills\\leaderskill2_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Collector.cs",
+              "DocumentMoniker": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\Player\\Collector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Collector.cs",
+              "ToolTip": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\Player\\Collector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Collector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T12:12:17.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\UI\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\HealthBar.cs",
+              "ToolTip": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\UI\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\HealthBar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T12:06:30.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LeaderSkill1_1.cs",
+              "DocumentMoniker": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\Enemy\\Leader\\Skills\\LeaderSkill1_1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Leader\\Skills\\LeaderSkill1_1.cs",
+              "ToolTip": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\Enemy\\Leader\\Skills\\LeaderSkill1_1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Leader\\Skills\\LeaderSkill1_1.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAADwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:33:25.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\Player\\PlayerAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAnimation.cs",
+              "ToolTip": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\Player\\PlayerAnimation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerAnimation.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:42:19.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAhwHsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T07:39:53.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\General\\Character.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\Character.cs",
+              "ToolTip": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\General\\Character.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\Character.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAewCUAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T06:33:34.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\Enemy\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyAI.cs",
+              "ToolTip": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\Enemy\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyAI.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAADwvyoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T11:47:04.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Attack.cs",
+              "DocumentMoniker": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\General\\Attack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\Attack.cs",
+              "ToolTip": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\General\\Attack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\Attack.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvyAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T06:32:11.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Shield.cs",
+              "DocumentMoniker": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\Prefabs\\Shield.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Prefabs\\Shield.cs",
+              "ToolTip": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\Prefabs\\Shield.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Prefabs\\Shield.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:22:33.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnemyAttack.cs",
+              "DocumentMoniker": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\Enemy\\EnemyAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyAttack.cs",
+              "ToolTip": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\Enemy\\EnemyAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyAttack.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvwgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:07:36.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\Enemy\\Leader\\Skills\\Skill.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Leader\\Skills\\Skill.cs",
+              "ToolTip": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\Enemy\\Leader\\Skills\\Skill.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Leader\\Skills\\Skill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:38:54.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BOOS.cs",
+              "DocumentMoniker": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\Enemy\\Leader\\State\\BOOS.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Leader\\State\\BOOS.cs",
+              "ToolTip": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\Enemy\\Leader\\State\\BOOS.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Leader\\State\\BOOS.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAIwEEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:47:55.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LeaderSkill1_2.cs",
+              "DocumentMoniker": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\Enemy\\Leader\\Skills\\LeaderSkill1_2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Leader\\Skills\\LeaderSkill1_2.cs",
+              "ToolTip": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\Enemy\\Leader\\Skills\\LeaderSkill1_2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Leader\\Skills\\LeaderSkill1_2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:41:47.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Orb.cs",
+              "DocumentMoniker": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\Prefabs\\Orb.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Prefabs\\Orb.cs",
+              "ToolTip": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\Prefabs\\Orb.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Prefabs\\Orb.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwCQAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:22:56.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LeaderSkill2_1.cs",
+              "DocumentMoniker": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\Enemy\\Leader\\Skills\\LeaderSkill2_1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Leader\\Skills\\LeaderSkill2_1.cs",
+              "ToolTip": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\Enemy\\Leader\\Skills\\LeaderSkill2_1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Leader\\Skills\\LeaderSkill2_1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:41:51.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LeaderSkill2_3.cs",
+              "DocumentMoniker": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\Enemy\\Leader\\Skills\\LeaderSkill2_3.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Leader\\Skills\\LeaderSkill2_3.cs",
+              "ToolTip": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\Enemy\\Leader\\Skills\\LeaderSkill2_3.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Leader\\Skills\\LeaderSkill2_3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:41:58.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LeaderSkill2_2.cs",
+              "DocumentMoniker": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\Enemy\\Leader\\Skills\\LeaderSkill2_2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Leader\\Skills\\LeaderSkill2_2.cs",
+              "ToolTip": "C:\\Users\\30714\\Desktop\\git\\unity-test1\\Checked2\\Assets\\Scripts\\Enemy\\Leader\\Skills\\LeaderSkill2_2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Leader\\Skills\\LeaderSkill2_2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:41:55.263Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
