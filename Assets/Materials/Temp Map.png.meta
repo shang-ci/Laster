@@ -1,0 +1,1967 @@
+fileFormatVersion: 2
+guid: d00d7acfa2313604b90b66970b37df07
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -156731267878556115
+    second: Temp Map_0
+  - first:
+      213: 3219097659425182388
+    second: Temp Map_1
+  - first:
+      213: -811044245624404262
+    second: Temp Map_2
+  - first:
+      213: -6398793441287442124
+    second: Temp Map_3
+  - first:
+      213: 5270213841389853756
+    second: Temp Map_4
+  - first:
+      213: -6501522400557372343
+    second: Temp Map_5
+  - first:
+      213: 6052326748100530422
+    second: Temp Map_6
+  - first:
+      213: -7897119921157024591
+    second: Temp Map_7
+  - first:
+      213: 7431285371154973497
+    second: Temp Map_8
+  - first:
+      213: -6798423125980280613
+    second: Temp Map_9
+  - first:
+      213: -1847987011556893643
+    second: Temp Map_10
+  - first:
+      213: 3901755772293435007
+    second: Temp Map_11
+  - first:
+      213: 8516431265729679106
+    second: Temp Map_12
+  - first:
+      213: -2366538827713180715
+    second: Temp Map_13
+  - first:
+      213: -1689815727200335605
+    second: Temp Map_14
+  - first:
+      213: -6360543608181749340
+    second: Temp Map_15
+  - first:
+      213: -3830528152964670923
+    second: Temp Map_16
+  - first:
+      213: 8101403344745185570
+    second: Temp Map_17
+  - first:
+      213: -6836773377323352172
+    second: Temp Map_18
+  - first:
+      213: 8439727417291361831
+    second: Temp Map_19
+  - first:
+      213: 1286131229293497746
+    second: Temp Map_20
+  - first:
+      213: 1114274162919456523
+    second: Temp Map_21
+  - first:
+      213: -3899313263058567078
+    second: Temp Map_22
+  - first:
+      213: 3793730936285750008
+    second: Temp Map_23
+  - first:
+      213: 3101844106946214257
+    second: Temp Map_24
+  - first:
+      213: -1044109687022955
+    second: Temp Map_25
+  - first:
+      213: 6246317944080486388
+    second: Temp Map_26
+  - first:
+      213: -1464147547240944966
+    second: Temp Map_27
+  - first:
+      213: 5833959510722602950
+    second: Temp Map_28
+  - first:
+      213: -8752139271844593262
+    second: Temp Map_29
+  - first:
+      213: -513458430230613061
+    second: Temp Map_30
+  - first:
+      213: 168661936072855662
+    second: Temp Map_31
+  - first:
+      213: -8954566091764131154
+    second: Temp Map_32
+  - first:
+      213: 5800470093615403461
+    second: Temp Map_33
+  - first:
+      213: 7684219407333622234
+    second: Temp Map_34
+  - first:
+      213: 7313509020104910165
+    second: Temp Map_35
+  - first:
+      213: 8213862300039894157
+    second: Temp Map_36
+  - first:
+      213: 3149125771342454089
+    second: Temp Map_37
+  - first:
+      213: -834786009146042717
+    second: Temp Map_38
+  - first:
+      213: 1877585651520410868
+    second: Temp Map_39
+  - first:
+      213: 1350412091911533859
+    second: Temp Map_40
+  - first:
+      213: -65340296131091915
+    second: Temp Map_41
+  - first:
+      213: 4220323940032546834
+    second: Temp Map_42
+  - first:
+      213: 1440256213608832134
+    second: Temp Map_43
+  - first:
+      213: -3121405107347746190
+    second: Temp Map_44
+  - first:
+      213: -8197442056443750857
+    second: Temp Map_45
+  - first:
+      213: 7279043215678310925
+    second: Temp Map_46
+  - first:
+      213: -1335395866165367723
+    second: Temp Map_47
+  - first:
+      213: 5219714212709720047
+    second: Temp Map_48
+  - first:
+      213: 7918765254099175976
+    second: Temp Map_49
+  - first:
+      213: -1360860615019626089
+    second: Temp Map_50
+  - first:
+      213: -1023606085724070036
+    second: Temp Map_51
+  - first:
+      213: -8719123731886182429
+    second: Temp Map_52
+  - first:
+      213: -6906485787117363705
+    second: Temp Map_53
+  - first:
+      213: -9071498169688589629
+    second: Temp Map_54
+  - first:
+      213: -909146857224335284
+    second: Temp Map_55
+  - first:
+      213: -7289278123965802039
+    second: Temp Map_56
+  - first:
+      213: 8371842820999640013
+    second: Temp Map_57
+  - first:
+      213: 5677371719609669783
+    second: Temp Map_58
+  - first:
+      213: 2956424820981630458
+    second: Temp Map_59
+  - first:
+      213: -6951156226764614320
+    second: Temp Map_60
+  - first:
+      213: 8358777695693508969
+    second: Temp Map_61
+  - first:
+      213: 2342264498810714879
+    second: Temp Map_62
+  - first:
+      213: -4928627340876480440
+    second: Temp Map_63
+  - first:
+      213: -487062280812523643
+    second: Temp Map_64
+  - first:
+      213: -1402932104575171951
+    second: Temp Map_65
+  - first:
+      213: 459091772209959460
+    second: Temp Map_66
+  - first:
+      213: 2585723793982040957
+    second: Temp Map_67
+  - first:
+      213: 5724848438758048250
+    second: Temp Map_68
+  - first:
+      213: -7670883089418964995
+    second: Temp Map_69
+  - first:
+      213: 6044870549543157405
+    second: Temp Map_70
+  - first:
+      213: -6229553506342112849
+    second: Temp Map_71
+  - first:
+      213: 20122195608121142
+    second: Temp Map_72
+  - first:
+      213: 7093526778130697108
+    second: Temp Map_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Temp Map_0
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2200
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ee6e40ebd23ddf0800000000000000
+      internalID: -156731267878556115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_1
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2226
+        width: 85
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2545704488cac20800000000000000
+      internalID: 3219097659425182388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2226
+        width: 86
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6ce624e879eb4f0800000000000000
+      internalID: -811044245624404262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_3
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 2225
+        width: 61
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43176f4744be237a0800000000000000
+      internalID: -6398793441287442124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_4
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 2226
+        width: 86
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c9362e09f832940800000000000000
+      internalID: 5270213841389853756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_5
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 2226
+        width: 86
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c688fb2d3f5c5a0800000000000000
+      internalID: -6501522400557372343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_6
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 2226
+        width: 86
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0902d5c1f2ef350800000000000000
+      internalID: 6052326748100530422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_7
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 2207
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b456ceb54bc76290800000000000000
+      internalID: -7897119921157024591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_8
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2078
+        width: 36
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933cf342caa312760800000000000000
+      internalID: 7431285371154973497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_9
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 2107
+        width: 36
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8052fbf2627a1a0800000000000000
+      internalID: -6798423125980280613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1991
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c9d92aa91aa56e0800000000000000
+      internalID: -1847987011556893643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_11
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 2007
+        width: 36
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e41e7d332d52630800000000000000
+      internalID: 3901755772293435007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1771
+        width: 181
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f09db3d11703670800000000000000
+      internalID: 8516431265729679106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_13
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1797
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db8cf2897d582fd0800000000000000
+      internalID: -2366538827713180715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_14
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1797
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b090b549c819c88e0800000000000000
+      internalID: -1689815727200335605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_15
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1716
+        width: 36
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a902f7b94fcab7a0800000000000000
+      internalID: -6360543608181749340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1662
+        width: 35
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a586c90fa37dac0800000000000000
+      internalID: -3830528152964670923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_17
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1616
+        width: 36
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221c2b14b67fd6070800000000000000
+      internalID: 8101403344745185570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_18
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1578
+        width: 36
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f3bca06d6ee11a0800000000000000
+      internalID: -6836773377323352172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1552
+        width: 35
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ec6c4de5fef1570800000000000000
+      internalID: 8439727417291361831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_20
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1516
+        width: 36
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d4390f98149d110800000000000000
+      internalID: 1286131229293497746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_21
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1478
+        width: 36
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fb53f8272b67f00800000000000000
+      internalID: 1114274162919456523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1472
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50cc672f3bd2e9c0800000000000000
+      internalID: -3899313263058567078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_23
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1458
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2e8bebf2a06a430800000000000000
+      internalID: 3793730936285750008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1079
+        width: 35
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179fa2fe7c6fb0b20800000000000000
+      internalID: 3101844106946214257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1060
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a9ff4436a4cfff0800000000000000
+      internalID: -1044109687022955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_26
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1060
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffc01363116fa650800000000000000
+      internalID: 6246317944080486388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_27
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1060
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abaa1fb209d4eabe0800000000000000
+      internalID: -1464147547240944966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_28
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1060
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7e1aee34366f050800000000000000
+      internalID: 5833959510722602950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_29
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1060
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29105fcf3b72a8680800000000000000
+      internalID: -8752139271844593262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_30
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1060
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3bc233744dfd8f0800000000000000
+      internalID: -513458430230613061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_31
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1060
+        width: 148
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6090c22325375200800000000000000
+      internalID: 168661936072855662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_32
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 954
+        width: 86
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa14a6359dfab380800000000000000
+      internalID: -8954566091764131154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_33
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1060
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1193461d86f7050800000000000000
+      internalID: 5800470093615403461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_34
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1060
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1884696d4d3aa60800000000000000
+      internalID: 7684219407333622234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_35
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1060
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555e7f484bdce7560800000000000000
+      internalID: 7313509020104910165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_36
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1060
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84d9d33e308df170800000000000000
+      internalID: 8213862300039894157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_37
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1060
+        width: 99
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d15e94431f3bb20800000000000000
+      internalID: 3149125771342454089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_38
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1060
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6526d2c8e3a64f0800000000000000
+      internalID: -834786009146042717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_39
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1060
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f49e32c3368e0a10800000000000000
+      internalID: 1877585651520410868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_40
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1054
+        width: 79
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32577ce84a0adb210800000000000000
+      internalID: 1350412091911533859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_41
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 954
+        width: 35
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532669bc85dd71ff0800000000000000
+      internalID: -65340296131091915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 572
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21887b2634a919a30800000000000000
+      internalID: 4220323940032546834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_43
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 572
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c14bd3561dcf310800000000000000
+      internalID: 1440256213608832134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_44
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 572
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2729270c79a8ea4d0800000000000000
+      internalID: -3121405107347746190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_45
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 572
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73692dea1e5dc3e80800000000000000
+      internalID: -8197442056443750857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_46
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 572
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a09371d3b540560800000000000000
+      internalID: 7279043215678310925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_47
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 572
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c20b2f888b77de0800000000000000
+      internalID: -1335395866165367723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_48
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 495
+        width: 92
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefde95db66207840800000000000000
+      internalID: 5219714212709720047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_49
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 572
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a894e0b0b15ed60800000000000000
+      internalID: 7918765254099175976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_50
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 574
+        width: 36
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7918fe41b704d1de0800000000000000
+      internalID: -1360860615019626089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_51
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 574
+        width: 35
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f1d7630bb6bc1f0800000000000000
+      internalID: -1023606085724070036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 495
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efee3869237ff680800000000000000
+      internalID: -8719123731886182429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_53
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 495
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ed59cc4cb3720a0800000000000000
+      internalID: -6906485787117363705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 35
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cafa1f3a709b1280800000000000000
+      internalID: -9071498169688589629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_55
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 116
+        width: 36
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c401b7e00cf0263f0800000000000000
+      internalID: -909146857224335284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_56
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 129
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c91eff9a2847da90800000000000000
+      internalID: -7289278123965802039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_57
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 72
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3761590b2ce2470800000000000000
+      internalID: 8371842820999640013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_58
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 72
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798de2dbf731ace40800000000000000
+      internalID: 5677371719609669783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_59
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 72
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af502cbf5b4570920800000000000000
+      internalID: 2956424820981630458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_60
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 72
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05553759d38888f90800000000000000
+      internalID: -6951156226764614320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_61
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 72
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961154c0708500470800000000000000
+      internalID: 8358777695693508969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_62
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 72
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffafe9dd625618020800000000000000
+      internalID: 2342264498810714879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_63
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 72
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84087c4eb8ff99bb0800000000000000
+      internalID: -4928627340876480440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_64
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 72
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f8da8af6b9d39f0800000000000000
+      internalID: -487062280812523643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_65
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 22
+        width: 92
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1924ec61fa8c78ce0800000000000000
+      internalID: -1402932104575171951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_66
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 72
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42211e1d8850f5600800000000000000
+      internalID: 459091772209959460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_67
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 72
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b2393471652e320800000000000000
+      internalID: 2585723793982040957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_68
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 72
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af18f11d25fb27f40800000000000000
+      internalID: 5724848438758048250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_69
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 72
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffa1a5e87c8b8590800000000000000
+      internalID: -7670883089418964995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_70
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 72
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e7dbadcb1b3e350800000000000000
+      internalID: 6044870549543157405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_71
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 72
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa17031771e2c89a0800000000000000
+      internalID: -6229553506342112849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_72
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 72
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fa251c70d774000800000000000000
+      internalID: 20122195608121142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp Map_73
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 72
+        width: 79
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b83378505417260800000000000000
+      internalID: 7093526778130697108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

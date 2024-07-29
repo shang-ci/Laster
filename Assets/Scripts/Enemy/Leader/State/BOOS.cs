@@ -42,7 +42,7 @@ public class Boss : MonoBehaviour
         currentPhase = 2;
          
         //提升属性,技能强化，技能间隔缩短
-        maxHealth *= 2;
+        //maxHealth *= 2;
         currentHealth = maxHealth;
         skillInterval -= 5f;
         Debug.Log("第二阶段");
