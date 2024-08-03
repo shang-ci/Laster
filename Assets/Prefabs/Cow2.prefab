@@ -2885,6 +2885,7 @@ GameObject:
   - component: {fileID: 7691757569144892323}
   - component: {fileID: 1330759755799128938}
   - component: {fileID: 7137124066168051703}
+  - component: {fileID: 8472233104851366042}
   m_Layer: 7
   m_Name: Cow2
   m_TagString: Untagged
@@ -3112,10 +3113,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 360c55f49c699d24f94eadecfd0dbfa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  normalSpeed: 16
-  chaseSpeed: 18
+  animator: {fileID: 0}
+  physicsCheck: {fileID: 0}
+  normalSpeed: 200
+  chaseSpeed: 260
   currentSpeed: 0
   range: 50
+  fixDir: {x: 0, y: 0, z: 0}
+  waitTime: 2
+  waitTimeCounter: 0
+  wait: 0
 --- !u!114 &1330759755799128938
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3190,6 +3197,28 @@ SpriteRenderer:
   m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &8472233104851366042
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7592724057502700422}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fed5598240c2bc4b9a31ad6191dc269, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bottomOffset: {x: 1.26, y: 0.41}
+  leftOffset: {x: -1.64, y: 2.69}
+  rightOffset: {x: 1.29, y: 2.43}
+  checkRaduis: 0.4
+  groundLayer:
+    serializedVersion: 2
+    m_Bits: 64
+  isGround: 0
+  touchLeftWall: 0
+  touchRightWall: 0
 --- !u!1 &7758517989371569951
 GameObject:
   m_ObjectHideFlags: 0

@@ -58,10 +58,14 @@ public class Character : MonoBehaviour
     {     
         //判断是否受伤
         //确保人物血量不会出现负值
+        if(able)
+            return;
+
         if(currentHealth - damage > 0 && !able)
         {
             currentHealth -= damage;
             TriggerInvulnerable();
+
             //受伤要执行系列
             //执行ontakedamage上注册的事件-invoke
             OnTakeDamage?.Invoke();
@@ -83,7 +87,7 @@ public class Character : MonoBehaviour
     {
         if (!able)
         {
-            able = true;
+            able= true;
             counter = duration;
         }
     }
@@ -92,5 +96,6 @@ public class Character : MonoBehaviour
     public void Knockback(Vector2 direction, float force)
     {
         rb.AddForce(direction * force, ForceMode2D.Impulse);
+        able = false;
     }
 }

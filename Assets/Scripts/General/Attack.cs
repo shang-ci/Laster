@@ -20,9 +20,8 @@ public class Attack : MonoBehaviour
             if(character != null)
             {
                 character.TakeDamage(damage);
-                //碰撞的反弹方向
-                //Vector2 dir = new((enemy.transform.position.x - transform.position.x),0);
-                //character.Knockback(dir,knockForc);
+               Vector2 dir = new Vector2((enemy.transform.position.x - transform.position.x),0).normalized;
+               character.Knockback(dir,knockForc);
             }
         }
     }

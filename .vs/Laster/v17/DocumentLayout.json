@@ -3,32 +3,44 @@
   "WorkspaceRootPath": "D:\\git\\unity\\test1.1\\Laster\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\ui\\skill\\skilldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\skill\\skilldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|d:\\git\\unity\\test1.1\\laster\\assets\\scripts\\enemy\\cows\\chasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\cows\\chasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|d:\\git\\unity\\test1.1\\laster\\assets\\scripts\\ui\\skill\\skillmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\skill\\skillmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\enemy\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\ui\\skill\\skillbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\skill\\skillbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|d:\\git\\unity\\test1.1\\laster\\assets\\scripts\\enemy\\cows\\patrostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\cows\\patrostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|d:\\git\\unity\\test1.1\\laster\\assets\\scripts\\ui\\skill\\skillscrollingbg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\skill\\skillscrollingbg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\enemy\\cows\\cow1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\cows\\cow1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\enemy\\leader\\skills\\leaderskill1_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\leader\\skills\\leaderskill1_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\enemy\\cows\\cow2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\cows\\cow2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\enemy\\leader\\state\\boos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\leader\\state\\boos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\general\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\general\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\enemy\\cows\\basestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\cows\\basestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\general\\physicscheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\physicscheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,83 +50,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SkillScrollingBG.cs",
-              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\UI\\skill\\SkillScrollingBG.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\skill\\SkillScrollingBG.cs",
-              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\UI\\skill\\SkillScrollingBG.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\skill\\SkillScrollingBG.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAA0AAAA",
+              "DocumentIndex": 0,
+              "Title": "ChaseState.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Cows\\ChaseState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Cows\\ChaseState.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Cows\\ChaseState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Cows\\ChaseState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T05:39:33.246Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SkillButton.cs",
-              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\UI\\skill\\SkillButton.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\skill\\SkillButton.cs",
-              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\UI\\skill\\SkillButton.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\skill\\SkillButton.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T02:59:07.676Z",
+              "WhenOpened": "2024-08-03T13:04:15.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SkillManager.cs",
-              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\UI\\skill\\SkillManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\skill\\SkillManager.cs",
-              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\UI\\skill\\SkillManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\skill\\SkillManager.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAmwFAAAAAOAAAA",
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyAI.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyAI.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwHgAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T02:58:41.906Z",
+              "WhenOpened": "2024-08-02T08:05:47.923Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SkillData.cs",
-              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\UI\\skill\\SkillData.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\skill\\SkillData.cs",
-              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\UI\\skill\\SkillData.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\skill\\SkillData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "DocumentIndex": 2,
+              "Title": "PatroState.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Cows\\PatroState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Cows\\PatroState.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Cows\\PatroState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Cows\\PatroState.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwBUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T06:31:51.536Z",
+              "WhenOpened": "2024-08-03T08:30:37.364Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LeaderSkill1_2.cs",
-              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Leader\\Skills\\LeaderSkill1_2.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Leader\\Skills\\LeaderSkill1_2.cs",
-              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Leader\\Skills\\LeaderSkill1_2.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Leader\\Skills\\LeaderSkill1_2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 8,
+              "Title": "BaseState.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Cows\\BaseState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Cows\\BaseState.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Cows\\BaseState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Cows\\BaseState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T09:02:37.66Z"
+              "WhenOpened": "2024-08-03T08:27:20.544Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "BOOS.cs",
-              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Leader\\State\\BOOS.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Leader\\State\\BOOS.cs",
-              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Leader\\State\\BOOS.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Leader\\State\\BOOS.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAIwCwAAAAKAAAA",
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\General\\Character.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\Character.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\General\\Character.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\Character.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAswGEAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T08:00:32.787Z"
+              "WhenOpened": "2024-08-03T06:58:31.295Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -124,9 +124,59 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\General\\Attack.cs",
               "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\General\\Attack.cs",
               "RelativeToolTip": "Assets\\Scripts\\General\\Attack.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAwAgAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-23T15:19:03.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PhysicsCheck.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\General\\PhysicsCheck.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\PhysicsCheck.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\General\\PhysicsCheck.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\PhysicsCheck.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvyEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T08:05:40.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cow2.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Cows\\Cow2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Cows\\Cow2.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Cows\\Cow2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Cows\\Cow2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T08:32:41.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:17:18.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cow1.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Cows\\Cow1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Cows\\Cow1.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Cows\\Cow1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Cows\\Cow1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T08:05:01.03Z",
+              "EditorCaption": ""
             }
           ]
         }
