@@ -9,6 +9,7 @@ public class PlayerMovement : MonoBehaviour
     public float jumpForce;
     public float runSpeed; 
     public float maxSpeed = 20f;
+    public float wallJumpForce;
     private Rigidbody2D rb; 
     private PlayerAnimation playerAnimation;
     private SpriteRenderer spriteRenderer;
@@ -58,6 +59,11 @@ public class PlayerMovement : MonoBehaviour
             Move(); 
             Jump(); 
         }
+
+        if(physicsCheck.onWall)
+            rb.velocity = new Vector2(rb.velocity.x, rb.velocity.y / 2f); 
+        else
+            rb.velocity = new Vector2(rb.velocity.x, rb.velocity.y);
     }
 
     void Move()
@@ -90,8 +96,13 @@ public class PlayerMovement : MonoBehaviour
                 rb.velocity = new Vector2(rb.velocity.x, jumpForce);
                 isDoubleJump = false;
             }
-           
+            else if (physicsCheck.onWall)
+            {
+                rb.AddForce(new Vector2(-move, 2f) * wallJumpForce, ForceMode2D.Impulse);
+            }
+
         }
+
     }
 
     public void GetHurt(Transform attacker)

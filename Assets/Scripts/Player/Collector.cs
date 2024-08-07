@@ -14,6 +14,7 @@ public class Collector : MonoBehaviour
         if (collision.gameObject.CompareTag("Cherry"))
         {
             GetComponent<Character>().currentHealth += 400;
+            GetComponent<Character>().maxHealth += 400;
             GetComponent<PlayerAttack>().attackDamage += 10;
             Destroy(collision.gameObject);
             cherrys++;

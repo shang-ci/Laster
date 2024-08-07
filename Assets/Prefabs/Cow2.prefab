@@ -3070,9 +3070,24 @@ MonoBehaviour:
   currentHealth: 0
   duration: 1
   able: 0
-  OnTakeDamage:
+  OnHealthChange:
     m_PersistentCalls:
       m_Calls: []
+  OnTakeDamage:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: d417fdbd82f7560438aefed2447b38f8, type: 2}
+        m_TargetAssemblyTypeName: voidEventSO, Assembly-CSharp
+        m_MethodName: RaiseEvent
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   OnDdie:
     m_PersistentCalls:
       m_Calls:
@@ -3116,13 +3131,21 @@ MonoBehaviour:
   animator: {fileID: 0}
   physicsCheck: {fileID: 0}
   normalSpeed: 200
-  chaseSpeed: 260
+  chaseSpeed: 300
   currentSpeed: 0
   range: 50
   fixDir: {x: 0, y: 0, z: 0}
   waitTime: 2
   waitTimeCounter: 0
   wait: 0
+  lostTime: 0
+  lostTimeCounter: 0
+  centerOffset: {x: -0, y: 2.32}
+  checkSize: {x: 1, y: 1}
+  checkDistance: 10
+  checkLayer:
+    serializedVersion: 2
+    m_Bits: 256
 --- !u!114 &1330759755799128938
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3209,6 +3232,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3fed5598240c2bc4b9a31ad6191dc269, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  rb: {fileID: 0}
   bottomOffset: {x: 1.26, y: 0.41}
   leftOffset: {x: -1.64, y: 2.69}
   rightOffset: {x: 1.29, y: 2.43}
@@ -3216,6 +3240,8 @@ MonoBehaviour:
   groundLayer:
     serializedVersion: 2
     m_Bits: 64
+  isPlayer: 0
+  onWall: 0
   isGround: 0
   touchLeftWall: 0
   touchRightWall: 0

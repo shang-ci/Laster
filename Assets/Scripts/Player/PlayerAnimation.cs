@@ -31,6 +31,7 @@ public class PlayerAnimation : MonoBehaviour
         animator.SetFloat("velocityX", Mathf.Abs(rb.velocity.x));
         animator.SetBool("isGround",physicsCheck.isGround);
         animator.SetBool("isDead", playerMovement.isDead);
+        animator.SetBool("Onwall",physicsCheck.onWall);
         if (Input.GetKeyDown(KeyCode.J))
         {
             JSource.Play();

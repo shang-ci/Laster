@@ -24,6 +24,8 @@ public class EnemyAI : MonoBehaviour
     public float waitTime;
     public float waitTimeCounter;
     public bool wait;
+    public float lostTime;
+    public float lostTimeCounter;
 
     [Header("¼ì²â")]
     public Vector2 centerOffset;
@@ -43,7 +45,7 @@ public class EnemyAI : MonoBehaviour
         physicsCheck = GetComponent<PhysicsCheck>();
         currentSpeed = normalSpeed;
         player = GameObject.FindGameObjectWithTag("Player").transform;
-        waitTimeCounter = waitTime;
+        //waitTimeCounter = waitTime;
     }
 
 
@@ -124,6 +126,15 @@ public class EnemyAI : MonoBehaviour
                 waitTimeCounter = waitTime;
                 transform.localScale = new Vector3(-fixDir.x, 1, 1);
             }
+        }
+
+        if (!FoundPlayer())
+        {
+            lostTimeCounter -= Time.deltaTime;
+        }
+        else
+        {
+            lostTimeCounter = lostTime;
         }
     }
 }

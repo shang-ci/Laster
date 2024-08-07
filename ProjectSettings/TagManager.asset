@@ -8,6 +8,8 @@ TagManager:
   - Cherry
   - Minion
   - RespawnPoint
+  - Bounds
+  - interaction
   layers:
   - Default
   - TransparentFX
@@ -42,11 +44,14 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: New Layer 1
+  - name: back
     uniqueID: 2201423373
     locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: front
+    uniqueID: 3228918123
     locked: 0
   m_RenderingLayers:
   - Default

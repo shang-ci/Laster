@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Prefabe
+  m_EditorClassIdentifier: 
+  m_GroupName: Prefabe
+  m_GUID: d82649bb4b3d990439bce6daad5a03f7
+  m_SerializeEntries:
+  - m_GUID: 17eb072f0ba36f84e8a04d45ab52e827
+    m_Address: Trap
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 731a81a3cf9ff3147bda87a5d23073da
+    m_Address: Cherry
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8874234f52dc4cf458b04a89d0f8b187
+    m_Address: PlatForm1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae146497589310a4cbee788292c9ee53
+    m_Address: Cow2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1611cd253cbb524cbfb6ab6dc2dc87e
+    m_Address: Cow1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7c8fad9062a09b547a76681415c7fbd3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 48536e00e6443e14cb100bbe9dff35f5, type: 2}
+    - {fileID: 11400000, guid: 8e700e459d2d3d245a3612a7956b13a0, type: 2}

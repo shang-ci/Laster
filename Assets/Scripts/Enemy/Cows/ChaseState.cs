@@ -8,10 +8,16 @@ public class ChaseState : BaseState
         Debug.Log("zhudao");
         currentEnemy.currentSpeed = currentEnemy.chaseSpeed;
         currentEnemy.animator.SetInteger("State", 2);
+        Debug.Log("state2");
     }
     
     public override void LogicUpdate()
     {
+        if(currentEnemy.lostTimeCounter <= 0)
+        {
+            currentEnemy.SwichState(EnemiesState.Patrol);
+        }
+
         if (!currentEnemy.physicsCheck.isGround || currentEnemy.physicsCheck.touchLeftWall && currentEnemy.fixDir.x < 0 || currentEnemy.physicsCheck.touchRightWall && currentEnemy.fixDir.x > 0)
         {
             currentEnemy.transform.localScale = new Vector3(-currentEnemy.fixDir.x,1,1);

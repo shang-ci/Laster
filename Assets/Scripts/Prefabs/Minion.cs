@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Minion : EnemyAI
+public class Minion : BoosMove
 {
     // 定义仆从被击杀的事件
     public delegate void MinionKilledHandler(GameObject minion);

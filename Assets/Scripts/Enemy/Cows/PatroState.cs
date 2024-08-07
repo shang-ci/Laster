@@ -4,7 +4,9 @@ public class PatroState : BaseState
 { 
     public override void OnEnter(EnemyAI enemy)
     {
-        currentEnemy = enemy;        
+        currentEnemy = enemy;
+        currentEnemy.currentSpeed = currentEnemy.normalSpeed;
+        currentEnemy.animator.SetInteger("State", 1);
     }
 
     public override void LogicUpdate()

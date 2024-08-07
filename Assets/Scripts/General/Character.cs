@@ -11,8 +11,8 @@ public class Character : MonoBehaviour
     Rigidbody2D rb;
 
     [Header("基本属性")]
-    public int maxHealth;
-    public int currentHealth;
+    public float maxHealth;
+    public float currentHealth;
 
     [Header("受伤免疫状态")]
     //无敌时间
@@ -22,6 +22,7 @@ public class Character : MonoBehaviour
     //状态值
     public bool able;
 
+    public UnityEvent<Character> OnHealthChange;
     public UnityEvent OnTakeDamage;
     public UnityEvent OnDdie;
 
@@ -31,14 +32,16 @@ public class Character : MonoBehaviour
 
     private void Start()
     {
+        //OnHealthChange?.Invoke(this);
+
         rb = GetComponent<Rigidbody2D>();
         currentHealth = maxHealth;
 
         // 实例化血条
-        GameObject healthBarObject = Instantiate(healthBarPrefab, transform.position, Quaternion.identity, transform);
-        healthBar = healthBarObject.GetComponent<HealthBar>();
-        healthBar.SetMaxHealth(maxHealth);
-        healthBar.offset = new Vector3(0, 2, 0); // 设置血条的偏移量，使其在头顶
+        //GameObject healthBarObject = Instantiate(healthBarPrefab, transform.position, Quaternion.identity, transform);
+        //healthBar = healthBarObject.GetComponent<HealthBar>();
+        //healthBar.SetMaxHealth(maxHealth);
+        //healthBar.offset = new Vector3(0, 2, 0); // 设置血条的偏移量，使其在头顶
     }
 
     private void Update()
@@ -65,7 +68,7 @@ public class Character : MonoBehaviour
         {
             currentHealth -= damage;
             TriggerInvulnerable();
-
+            rb.velocity = new Vector2 (0, rb.velocity.y);
             //受伤要执行系列
             //执行ontakedamage上注册的事件-invoke
             OnTakeDamage?.Invoke();
@@ -79,7 +82,10 @@ public class Character : MonoBehaviour
             OnDdie?.Invoke();
             //Died（）
         }
-        healthBar.SetHealth(currentHealth);
+        //healthBar.SetHealth(currentHealth);
+
+        OnHealthChange?.Invoke(this);
+        Debug.Log("掉血");
     }
 
     //无敌时间的调用
