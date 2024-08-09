@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -5,6 +6,10 @@ using UnityEngine.SceneManagement;
 
 public class PlayerMovement : MonoBehaviour
 {
+    [Header("事件监听")]
+    public voidEventSO loadDataEvent;
+    public voidEventSO backToMenuEvent;
+
     private Animator animator;
     public float jumpForce;
     public float runSpeed; 
@@ -38,6 +43,24 @@ public class PlayerMovement : MonoBehaviour
             instance = this;
             DontDestroyOnLoad(gameObject);
         }
+    }
+
+    private void OnEnable()
+    {
+        loadDataEvent.OnEventRaised += OnloadDataEvent;
+        backToMenuEvent.OnEventRaised += OnloadDataEvent;
+    }
+
+    private void OnDisable()
+    {
+        loadDataEvent.OnEventRaised -= OnloadDataEvent;
+        backToMenuEvent.OnEventRaised += OnloadDataEvent;
+    }
+
+    //读取游戏进度
+    private void OnloadDataEvent()
+    {
+        isDead = false;
     }
 
     void Start()
@@ -120,53 +143,21 @@ public class PlayerMovement : MonoBehaviour
     {
         //让人物不能被控制
         isDead = true;
-        rb.bodyType = RigidbodyType2D.Static;
+       // rb.bodyType = RigidbodyType2D.Static;
         animator.SetBool("isDead",isDead);
         //SceneManager.LoadScene("GameScenes");    
     }
 
     //下面全是为了重生
 
-    public void RestartGame ()
-    {
-        Debug.Log("切换");
-        Debug.Log(newPoint.transform);
-        transform.position = newPoint.position;
-        GetComponent<Character>().currentHealth = 4000;
-        rb.bodyType = RigidbodyType2D.Dynamic;
-        isDead = false;
-        SceneManager.LoadScene("GameScenes");
-    }
-
-    //注册场景加载事件，确保切换场景时，玩家重生点不会消失
-    private void OnEnable()
-    {
-        SceneManager.sceneLoaded += Loaded;
-    }
-
-    private void OnDisable()
-    {
-        SceneManager.sceneLoaded -= Loaded;
-    }
-
-    // 只要加载场景就寻找重生点
-    private void Loaded(Scene scene, LoadSceneMode mode)
-    {
-        FindRespawnPoint(); 
-    }
-
-    public void FindRespawnPoint()
-    {
-        GameObject respawnPoint = GameObject.FindWithTag("RespawnPoint");
-        if (respawnPoint != null)
-        {
-            newPoint = respawnPoint.transform;
-            Debug.Log(newPoint.transform);
-        }
-        else
-        {
-            Debug.Log("找不到带有 'RespawnPoint' 标签的对象");
-        }
-    }
-
+   // public void RestartGame ()
+   // {
+   //     Debug.Log("切换");
+   //     Debug.Log(newPoint.transform);
+   //     transform.position = newPoint.position;
+   //     GetComponent<Character>().currentHealth = 4000;
+   //     rb.bodyType = RigidbodyType2D.Dynamic;
+   //     isDead = false;
+   //     SceneManager.LoadScene("GameScenes");
+   // }
 }

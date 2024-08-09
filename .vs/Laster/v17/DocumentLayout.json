@@ -3,27 +3,111 @@
   "WorkspaceRootPath": "D:\\git\\unity\\test1.1\\Laster\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\enemy\\leader\\boosmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\leader\\boosmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\enemy\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|d:\\git\\unity\\test1.1\\laster\\assets\\scripts\\enemy\\leader\\skills\\leaderskill1_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\leader\\skills\\leaderskill1_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\enemy\\cows\\cow1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\cows\\cow1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\enemy\\cows\\chasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\cows\\chasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\transition\\sceneload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\transition\\sceneload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|d:\\git\\unity\\test1.1\\laster\\assets\\scripts\\prefabs\\shield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\ui\\playerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\playerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\saveload\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\saveload\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\ui\\fadecanvas\\fadecanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\fadecanvas\\fadecanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|d:\\git\\unity\\test1.1\\laster\\assets\\scripts\\saveload\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\saveload\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\general\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\saveload\\isacvable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\saveload\\isacvable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\saveload\\savepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\saveload\\savepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\player\\sign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\sign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\scriptobject\\voideventso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptobject\\voideventso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|d:\\git\\unity\\test1.1\\laster\\assets\\scripts\\saveload\\datadefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\saveload\\datadefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|d:\\git\\unity\\test1.1\\laster\\assets\\scripts\\tools\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tools\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\ui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\scriptobject\\gamesceneso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptobject\\gamesceneso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\scriptobject\\sceneloadeventso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptobject\\sceneloadeventso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\scriptobject\\fadeeventso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptobject\\fadeeventso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\tools\\cameracontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tools\\cameracontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\enemy\\leader\\boosmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\leader\\boosmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\enemy\\leader\\skills\\leaderskill1_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\leader\\skills\\leaderskill1_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\prefabs\\shield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\prefabs\\shield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|d:\\git\\unity\\test1.1\\laster\\assets\\scripts\\prefabs\\orb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\prefabs\\orb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\prefabs\\orb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|d:\\git\\unity\\test1.1\\laster\\assets\\scripts\\prefabs\\missile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\prefabs\\missile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\prefabs\\missile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -35,24 +119,12 @@
       "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\collector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\transition\\teleportpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\transition\\teleportpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\scriptobject\\gamesceneso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptobject\\gamesceneso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git\\unity\\test1.1\\Laster\\Library\\PackageCache\\com.unity.2d.tilemap\\Editor\\GridEditorUtility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.2d.tilemap\\Editor\\GridEditorUtility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\player\\sign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\sign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\player\\playeranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,16 +135,8 @@
       "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\ui\\playerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\playerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\ui\\interaction\\e1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\interaction\\e1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\scriptobject\\voideventso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptobject\\voideventso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\scriptobject\\charatereventso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,32 +147,12 @@
       "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\physicscheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\general\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\general\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\enemy\\cows\\patrostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\cows\\patrostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\enemy\\cows\\chasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\cows\\chasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\enemy\\cows\\basestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\cows\\basestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\enemy\\cows\\cow1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\cows\\cow1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFDA9F64-D859-71C1-69D2-2AA96E8076AD}|Assembly-CSharp.csproj|D:\\git\\unity\\test1.1\\Laster\\assets\\scripts\\enemy\\cows\\cow2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -122,37 +166,295 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LeaderSkill1_1.cs",
-              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Leader\\Skills\\LeaderSkill1_1.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Leader\\Skills\\LeaderSkill1_1.cs",
-              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Leader\\Skills\\LeaderSkill1_1.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Leader\\Skills\\LeaderSkill1_1.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAwAgAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T13:41:01.551Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Shield.cs",
-              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Prefabs\\Shield.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Prefabs\\Shield.cs",
-              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Prefabs\\Shield.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Prefabs\\Shield.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAwDgAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T13:06:03.158Z",
+              "WhenOpened": "2024-08-02T14:17:18.751Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvyIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T08:21:41.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SceneLoad.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Transition\\SceneLoad.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Transition\\SceneLoad.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Transition\\SceneLoad.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Transition\\SceneLoad.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAUwE4AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:15:29.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyAI.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyAI.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAgwEoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:20:10.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cow1.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Cows\\Cow1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Cows\\Cow1.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Cows\\Cow1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Cows\\Cow1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T08:05:01.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\SaveLoad\\DataManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveLoad\\DataManager.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\SaveLoad\\DataManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveLoad\\DataManager.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAwCIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:32:17.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FadeCanvas.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\UI\\FadeCanvas\\FadeCanvas.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\FadeCanvas\\FadeCanvas.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\UI\\FadeCanvas\\FadeCanvas.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\FadeCanvas\\FadeCanvas.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAxwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:38:02.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Data.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\SaveLoad\\Data.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveLoad\\Data.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\SaveLoad\\Data.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveLoad\\Data.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:47:51.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\General\\Character.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\Character.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\General\\Character.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\Character.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAArwKAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:58:31.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChaseState.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Cows\\ChaseState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Cows\\ChaseState.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Cows\\ChaseState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Cows\\ChaseState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T13:04:15.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ISacvAble.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\SaveLoad\\ISacvAble.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveLoad\\ISacvAble.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\SaveLoad\\ISacvAble.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveLoad\\ISacvAble.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAvwA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:27:42.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SavePoint.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\SaveLoad\\SavePoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveLoad\\SavePoint.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\SaveLoad\\SavePoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveLoad\\SavePoint.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvxsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:58:34.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerState.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\UI\\PlayerState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PlayerState.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\UI\\PlayerState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PlayerState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:49:30.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Sign.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Player\\Sign.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Sign.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Player\\Sign.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Sign.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T06:01:29.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "voidEventSO.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\ScriptObject\\voidEventSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptObject\\voidEventSO.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\ScriptObject\\voidEventSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptObject\\voidEventSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T07:23:56.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataDefinition.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\SaveLoad\\DataDefinition.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveLoad\\DataDefinition.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\SaveLoad\\DataDefinition.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveLoad\\DataDefinition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:54:16.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Tools\\Enums.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tools\\Enums.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Tools\\Enums.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tools\\Enums.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:04:25.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\UI\\Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Menu.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\UI\\Menu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:39:55.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SceneLoadEventSO.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\ScriptObject\\SceneLoadEventSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptObject\\SceneLoadEventSO.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\ScriptObject\\SceneLoadEventSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptObject\\SceneLoadEventSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:37:59.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GameSceneSO.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\ScriptObject\\GameSceneSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptObject\\GameSceneSO.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\ScriptObject\\GameSceneSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptObject\\GameSceneSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:10:08.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FadeEventSO.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\ScriptObject\\FadeEventSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptObject\\FadeEventSO.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\ScriptObject\\FadeEventSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptObject\\FadeEventSO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:50:56.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CameraControl.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Tools\\CameraControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tools\\CameraControl.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Tools\\CameraControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tools\\CameraControl.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwCAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:48:25.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "Orb.cs",
               "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Prefabs\\Orb.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Prefabs\\Orb.cs",
@@ -160,51 +462,23 @@
               "RelativeToolTip": "Assets\\Scripts\\Prefabs\\Orb.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T13:05:59.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T13:05:59.844Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Missile.cs",
-              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Prefabs\\Missile.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Prefabs\\Missile.cs",
-              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Prefabs\\Missile.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Prefabs\\Missile.cs",
+              "DocumentIndex": 24,
+              "Title": "Shield.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Prefabs\\Shield.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Prefabs\\Shield.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Prefabs\\Shield.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Prefabs\\Shield.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T13:05:55.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T13:06:03.158Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Minion.cs",
-              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Prefabs\\Minion.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Prefabs\\Minion.cs",
-              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Prefabs\\Minion.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Prefabs\\Minion.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAADwvwIAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T12:17:06.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BoosMove.cs",
-              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Leader\\BoosMove.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Leader\\BoosMove.cs",
-              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Leader\\BoosMove.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Leader\\BoosMove.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAQwC8AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T12:01:12.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 30,
               "Title": "GridEditorUtility.cs",
               "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Library\\PackageCache\\com.unity.2d.tilemap\\Editor\\GridEditorUtility.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.2d.tilemap\\Editor\\GridEditorUtility.cs",
@@ -217,7 +491,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
+              "Title": "BoosMove.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Leader\\BoosMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Leader\\BoosMove.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Leader\\BoosMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Leader\\BoosMove.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwC8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:01:12.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Minion.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Prefabs\\Minion.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Prefabs\\Minion.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Prefabs\\Minion.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Prefabs\\Minion.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvwIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:17:06.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Missile.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Prefabs\\Missile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Prefabs\\Missile.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Prefabs\\Missile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Prefabs\\Missile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T13:05:55.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "PlayerAttack.cs",
               "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Player\\PlayerAttack.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAttack.cs",
@@ -229,31 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Sign.cs",
-              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Player\\Sign.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Sign.cs",
-              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Player\\Sign.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\Sign.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBYAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T06:01:29.24Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "voidEventSO.cs",
-              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\ScriptObject\\voidEventSO.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptObject\\voidEventSO.cs",
-              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\ScriptObject\\voidEventSO.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ScriptObject\\voidEventSO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T07:23:56.187Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 34,
               "Title": "CharaterEventSo.cs",
               "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\ScriptObject\\CharaterEventSo.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptObject\\CharaterEventSo.cs",
@@ -265,20 +551,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SceneLoad.cs",
-              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Transition\\SceneLoad.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Transition\\SceneLoad.cs",
-              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Transition\\SceneLoad.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Transition\\SceneLoad.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAADwv1oAAAAkAAAA",
+              "DocumentIndex": 23,
+              "Title": "LeaderSkill1_1.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Leader\\Skills\\LeaderSkill1_1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Leader\\Skills\\LeaderSkill1_1.cs",
+              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Leader\\Skills\\LeaderSkill1_1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Leader\\Skills\\LeaderSkill1_1.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwAgAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T07:15:29.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T13:41:01.551Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 29,
               "Title": "TeleportPoint.cs",
               "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Transition\\TeleportPoint.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Transition\\TeleportPoint.cs",
@@ -290,19 +575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Player\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
-              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Player\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
-              "ViewState": "AQIAAGwAAAAAAAAAAAAUwHoAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T14:17:18.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 28,
               "Title": "Collector.cs",
               "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Player\\Collector.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Collector.cs",
@@ -314,19 +587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GameSceneSO.cs",
-              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\ScriptObject\\GameSceneSO.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptObject\\GameSceneSO.cs",
-              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\ScriptObject\\GameSceneSO.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ScriptObject\\GameSceneSO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T07:10:08.849Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 31,
               "Title": "PlayerAnimation.cs",
               "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Player\\PlayerAnimation.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAnimation.cs",
@@ -338,7 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 33,
               "Title": "E1.cs",
               "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\UI\\Interaction\\E1.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Interaction\\E1.cs",
@@ -350,19 +611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PlayerState.cs",
-              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\UI\\PlayerState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PlayerState.cs",
-              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\UI\\PlayerState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\PlayerState.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T07:49:30.027Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 35,
               "Title": "PhysicsCheck.cs",
               "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\General\\PhysicsCheck.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\General\\PhysicsCheck.cs",
@@ -374,31 +623,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Character.cs",
-              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\General\\Character.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\Character.cs",
-              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\General\\Character.cs",
-              "RelativeToolTip": "Assets\\Scripts\\General\\Character.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAADwvysAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T06:58:31.295Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "UIManager.cs",
-              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\UI\\UIManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIManager.cs",
-              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\UI\\UIManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\UIManager.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAxwBYAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T08:21:41.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 37,
               "Title": "PatroState.cs",
               "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Cows\\PatroState.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Cows\\PatroState.cs",
@@ -410,31 +635,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "BaseState.cs",
-              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Cows\\BaseState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Cows\\BaseState.cs",
-              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Cows\\BaseState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Cows\\BaseState.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T08:27:20.544Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ChaseState.cs",
-              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Cows\\ChaseState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Cows\\ChaseState.cs",
-              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Cows\\ChaseState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Cows\\ChaseState.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T13:04:15.179Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 36,
               "Title": "Attack.cs",
               "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\General\\Attack.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\General\\Attack.cs",
@@ -446,7 +647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 38,
               "Title": "Cow2.cs",
               "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Cows\\Cow2.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Cows\\Cow2.cs",
@@ -455,18 +656,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T08:32:41.166Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Cow1.cs",
-              "DocumentMoniker": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Cows\\Cow1.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Cows\\Cow1.cs",
-              "ToolTip": "D:\\git\\unity\\test1.1\\Laster\\Assets\\Scripts\\Enemy\\Cows\\Cow1.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Cows\\Cow1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T08:05:01.03Z"
             }
           ]
         }

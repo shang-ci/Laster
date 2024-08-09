@@ -4,6 +4,9 @@ using System;
 
 public class CameraControl : MonoBehaviour
 {
+    [Header("事件监听")]
+    public voidEventSO afterSceneLoadEvent;
+
     private CinemachineConfiner2D confiner;
     public CinemachineImpulseSource impulseSource;//振动源
     public voidEventSO cameraShakeEvent;//振动事件
@@ -15,12 +18,19 @@ public class CameraControl : MonoBehaviour
 
     private void OnEnable()
     {
+        afterSceneLoadEvent.OnEventRaised += OnAfterSceneLoad;
         cameraShakeEvent.OnEventRaised += OnCameraShakeEvent;
     }
 
     private void OnDisable()
     {
+        afterSceneLoadEvent.OnEventRaised -= OnAfterSceneLoad;
         cameraShakeEvent.OnEventRaised -= OnCameraShakeEvent;
+    }
+
+    private void OnAfterSceneLoad()
+    {
+        GetNewCameraBouns();
     }
 
     private void OnCameraShakeEvent()

@@ -2886,6 +2886,7 @@ GameObject:
   - component: {fileID: 1330759755799128938}
   - component: {fileID: 7137124066168051703}
   - component: {fileID: 8472233104851366042}
+  - component: {fileID: 2727981591564813245}
   m_Layer: 7
   m_Name: Cow2
   m_TagString: Untagged
@@ -3066,6 +3067,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13ab16ce618ce1f4690a057cfb80e0d9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  newGameEvent: {fileID: 11400000, guid: 345b2917b3fab174ca5bab6befd95722, type: 2}
   maxHealth: 700
   currentHealth: 0
   duration: 1
@@ -3128,7 +3130,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 360c55f49c699d24f94eadecfd0dbfa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  animator: {fileID: 0}
+  animator: {fileID: 6975720394448396962}
   physicsCheck: {fileID: 0}
   normalSpeed: 200
   chaseSpeed: 300
@@ -3245,6 +3247,20 @@ MonoBehaviour:
   isGround: 0
   touchLeftWall: 0
   touchRightWall: 0
+--- !u!114 &2727981591564813245
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7592724057502700422}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9756f72cbf01e304bbaf87816caff4b1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  persisitentType: 0
+  ID: e4c16b01-119d-4a98-8156-8bcd19fb3da7
 --- !u!1 &7758517989371569951
 GameObject:
   m_ObjectHideFlags: 0
